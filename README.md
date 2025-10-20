@@ -1,3 +1,3 @@
 # firstuse
 in the file
-yes
+yes no
